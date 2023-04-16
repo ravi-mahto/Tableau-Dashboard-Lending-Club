@@ -1,7 +1,7 @@
 # Tableau-Dashboard-Lending-Club
 Loan Data Analysis and Visualization using Lending Club Data
 ## Dashboard
-![Lending club loan Dashboard](https://user-images.githubusercontent.com/61374508/231662033-6883965a-e5f4-405f-9eef-ed77a7772384.png)
+![Lending Club Loan Dashboard](https://user-images.githubusercontent.com/61374508/232261405-eb30756d-f5a8-4dbd-906c-09814a951ade.png)
 
 ### Following are the insights we can see from the dashboard:
 * As the loan amount increases, the chances of an applicant might turn out to a defaulter is high
